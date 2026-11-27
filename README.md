@@ -480,6 +480,7 @@ These projects are especially useful for studying reverse engineering, compatibi
 - **[Wargus](https://github.com/Wargus/wargus)** — Warcraft II mod built on Stratagus.
 - **[OpenFodder](https://github.com/OpenFodder/openfodder)** — Open-source port of Cannon Fodder; original game data remains separately licensed.
 - **[CorsixTH](https://github.com/CorsixTH/CorsixTH)** — Theme Hospital reimplementation.
+- **[DRIG](https://github.com/PipeKnight/drig-race-driver)** — Rust/Bevy engine reimplementation of Race Driver: GRID (2008) with playable races; requires the original PC game files.
 - **[OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)** — RollerCoaster Tycoon 2 reimplementation.
 - **[OpenTTD](https://github.com/OpenTTD/OpenTTD)** — Transport Tycoon Deluxe reimplementation.
 - **[OpenLoco](https://github.com/OpenLoco/OpenLoco)** — Locomotion reimplementation.
